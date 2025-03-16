@@ -62,4 +62,4 @@ Ready to analyze your investments? Try the **[Stock Gains Calculator](https://st
 
 For more investing tips and tools, check out our [Investing Resources](/categories/investing).
 
-> *Photo by [Austin Distel](https://unsplash.com/@austindistel) on [Unsplash](https://unsplash.com/).*
+> *Photo by [Mediamodifier](https://unsplash.com/@mediamodifier) on [Unsplash](https://unsplash.com/).*
