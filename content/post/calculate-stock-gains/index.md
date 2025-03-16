@@ -14,11 +14,11 @@ tags:
 weight: 1
 ---
 
-Are you tired of manually calculating stock gains? Whether you're a beginner or an experienced investor, understanding your investment returns is crucial. That's where the **[Stock Gain Calculator](https://stockcgainscalculator.com)** comes in!
+Are you tired of manually calculating stock gains? Whether you're a beginner or an experienced investor, understanding your investment returns is crucial. That's where the **[Stock Gains Calculator](https://stockgainscalculator.com)** comes in!
 
 ## What Is the Stock Gain Calculator?
 
-The **[Stock Gain Calculator](https://stockcgainscalculator.com)** is a free online tool that helps you:
+The **[Stock Gains Calculator](https://stockgainscalculator.com)** is a free online tool that helps you:
 - Calculate historical stock gains for **1 day, 1 week, 1 month, 1 year, or even 10 years**.
 - Visualize stock performance with an interactive graph.
 - Analyze custom timeframes to suit your investment strategy.
@@ -47,14 +47,14 @@ Using the calculator is simple:
 
 ## Example: Analyzing Apple Stock
 
-Let’s say you invested $1,000 in Apple stock 1 year ago. Using the **[Stock Gain Calculator](https://stockcgainscalculator.com)**, you can:
+Let’s say you invested $1,000 in Apple stock 1 year ago. Using the **[Stock Gains Calculator](https://stockgainscalculator.com)**, you can:
 - See how much your investment is worth today.
 - Analyze the stock's performance over the past year.
 - Decide whether to hold or sell based on data-driven insights.
 
 ## Try It Now!
 
-Ready to analyze your investments? Try the **[Stock Gain Calculator](https://stockcgainscalculator.com)** today and take control of your financial future!
+Ready to analyze your investments? Try the **[Stock Gains Calculator](https://stockgainscalculator.com)** today and take control of your financial future!
 
 [CTA Button: Calculate Your Stock Gains Now!]
 
