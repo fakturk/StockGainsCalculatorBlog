@@ -47,12 +47,12 @@ If you had invested the cost of an iPhone 1 in Apple stock instead, here’s how
 Here’s a breakdown of the growth over time:  
 
 **Custom Timeframe Analysis for iPhone 1 (4GB Model - $499):**  
-![Custom Timeframe Analysis for iPhone 1 (4GB Model - $499)](/images/iphone1-stock-gains-499.png)  
+![Custom Timeframe Analysis for iPhone 1 (4GB Model - $499)](./iphone1-stock-gains-499.png)  
 **Custom Period Gain:** $4960.23 (994.03%)  
 **Timeframe:** 6/29/2007 - 3/17/2025  
 
 **Custom Timeframe Analysis for iPhone 1 (8GB Model - $599):**  
-![Custom Timeframe Analysis for iPhone 1 (8GB Model - $599)](/images/iphone1-stock-gains-599.png)  
+![Custom Timeframe Analysis for iPhone 1 (8GB Model - $599)](./iphone1-stock-gains-599.png)  
 **Custom Period Gain:** $5954.26 (994.03%)  
 **Timeframe:** 6/29/2007 - 3/17/2025  
 
@@ -71,6 +71,16 @@ Here’s a breakdown of the growth over time:
 
 ### **Conclusion**  
 The iPhone 1 was a revolutionary product, but investing in Apple stock at the time would have been an even smarter move. While past performance doesn’t guarantee future results, this example shows the potential of long-term investing in innovative companies.  
+
+---
+
+### **Investing Resources**  
+For more investing tips and tools, check out our [Investing Resources](/categories/investing).  
+
+---
+
+### **Photo Credit**  
+*Photo by [Mediamodifier](https://unsplash.com/@mediamodifier) on [Unsplash](https://unsplash.com/).*  
 
 ---
 
