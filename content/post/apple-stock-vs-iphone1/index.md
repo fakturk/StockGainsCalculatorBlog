@@ -47,12 +47,12 @@ If you had invested the cost of an iPhone 1 in Apple stock instead, here’s how
 Here’s a breakdown of the growth over time:  
 
 **Custom Timeframe Analysis for iPhone 1 (4GB Model - $499):**  
-![Custom Timeframe Analysis for iPhone 1 (4GB Model - $499)](./iphone1-stock-gains-499.png)  
+![Custom Timeframe Analysis for iPhone 1 (4GB Model - $499)](iphone1-stock-gains-499.png)  
 **Custom Period Gain:** $4960.23 (994.03%)  
 **Timeframe:** 6/29/2007 - 3/17/2025  
 
 **Custom Timeframe Analysis for iPhone 1 (8GB Model - $599):**  
-![Custom Timeframe Analysis for iPhone 1 (8GB Model - $599)](./iphone1-stock-gains-599.png)  
+![Custom Timeframe Analysis for iPhone 1 (8GB Model - $599)](iphone1-stock-gains-599.png)  
 **Custom Period Gain:** $5954.26 (994.03%)  
 **Timeframe:** 6/29/2007 - 3/17/2025  
 
