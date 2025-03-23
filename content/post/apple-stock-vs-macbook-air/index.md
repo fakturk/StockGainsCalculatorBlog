@@ -33,19 +33,19 @@ If you had invested the cost of a [MacBook Air](https://amzn.to/4bTFOcO) in Appl
 
 **For the Base Model ($1,799 Investment):**  
 - $1,799 would have bought **~114 shares** of Apple stock.  
-- Based on your custom timeframe analysis, the investment would be worth **$12,456.78** today.  
-  - **Custom Period Gain:** $10,657.78 (592.43%)  
+- Based on the [Stock Gains Calculator](https://stockgainscalculator.com), the investment would be worth **$18,224.85** today.  
+  - **Gain:** $16,425.85 (913.05%)  
 
 #### **Visualizing the Growth**  
 Here’s a breakdown of the growth over time:  
 
 **Custom Timeframe Analysis for MacBook Air ($1,799 Investment):**  
 ![Custom Timeframe Analysis for MacBook Air ($1,799 Investment)](macbook-air-stock-gains-1799.png)  
-**Custom Period Gain:** $10,657.78 (592.43%)  
+**Gain:** $16,425.85 (913.05%)  
 **Timeframe:** 1/15/2008 - 3/17/2025  
 
 #### **Key Takeaways**  
-- Investing in Apple stock when the [MacBook Air](https://amzn.to/4bTFOcO) launched would have been a game-changer, yielding nearly **6x returns**.  
+- Investing in Apple stock when the [MacBook Air](https://amzn.to/4bTFOcO) launched would have been a game-changer, yielding over **10x returns**.  
 - The [MacBook Air](https://amzn.to/4bTFOcO) was a groundbreaking device, and Apple’s stock growth shows the power of investing in innovative companies.  
 - You don’t have to choose between enjoying cutting-edge tech like the [MacBook Air](https://amzn.to/4bTFOcO) and building wealth—both can be part of a balanced financial strategy.  
 
