@@ -44,3 +44,10 @@ Breaking news: The [Intel Core i9-13900K](https://amzn.to/4iMH4AU) has achieved 
 > "When your processor outpaces your portfolio..." - Disappointed Investors Weekly  
 
 ---
+### **Visual Credits**  
+*GPU photo by [Martin Katler](https://unsplash.com/@martinkatler), Chart via StockGainsCalculator*  
+
+---
+
+### **Affiliate Disclosure**  
+*As an Amazon Associate, I earn from qualifying purchases.*  
