@@ -26,7 +26,7 @@ The [PowerColor Red Devil RX 7900 XTX](https://amzn.to/3DZg3va) was a gamer's dr
 
 *Based on used market prices  
 
-![AMD GPU vs Stock 2025](amd-2025-growth-chart.png)  
+![AMD GPU vs Stock 2025](amd-gpu-stock-growth.png)  
 **Gain**: $484.23 (44.06%)  
 **Timeframe**: 12/13/2022 - 3/28/2025  
 
@@ -41,7 +41,7 @@ The [PowerColor Red Devil RX 7900 XTX](https://amzn.to/3DZg3va) was a gamer's dr
 
 ### **2025 Recommendations**  
 - **For Gamers**: [RX 7900 XTX Clearance Deals](https://amzn.to/442aV3P)  
-- **For Investors**: [Try Our Updated AMD Calculator](https://stockgainscalculator.com/amd-2025)  
+- **For Investors**: [Try Our Updated AMD Calculator](https://stockgainscalculator.com/)  
 
 ---
 ### **Visual Credits**  
