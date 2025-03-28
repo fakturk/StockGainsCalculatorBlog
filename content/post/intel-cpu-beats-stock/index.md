@@ -24,7 +24,7 @@ Breaking news: The [Intel Core i9-13900K](https://amzn.to/4iMH4AU) has achieved 
 | i9-13900K Purchase  | $589         | **$421**    | -28.5%  |  
 | INTC Stock          | $589         | $421.16     | -28.49% |  
 
-![Intel Loses to Its Own CPU](intel-cpu-vs-stock-2025.png)  
+![Intel Loses to Its Own CPU](intel-cpu-stock-growth.png)  
 **Loss**: $167.84 (28.49%)  
 **Timeframe**: 9/1/2022 - 3/28/2025  
 
@@ -39,7 +39,7 @@ Breaking news: The [Intel Core i9-13900K](https://amzn.to/4iMH4AU) has achieved 
 
 ### **2025 Survival Guide**  
 - **For Builders**: [Core i9-13900K (Now $299)](https://amzn.to/4iMH4AU) - because why stop losing money?  
-- **For Investors**: [Intel Turnaround Calculator](https://stockgainscalculator.com/intel-coping-mechanism)  
+- **For Investors**: [Intel Turnaround Calculator](https://stockgainscalculator.com/)  
 
 > "When your processor outpaces your portfolio..." - Disappointed Investors Weekly  
 
