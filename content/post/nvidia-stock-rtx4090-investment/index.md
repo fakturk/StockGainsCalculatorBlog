@@ -16,13 +16,13 @@ weight: 1
 ---
 
 ### **Introduction**  
-The [NVIDIA GeForce RTX 4090](https://amzn.to/3FGqkgi) set new standards for gaming performance when it launched in late 2022. But what if you had complemented your hardware purchase with an investment in NVIDIA stock? Our analysis reveals how combining tech enthusiasm with strategic investing could have turned your $1,599 into **$8,398** - while still enjoying cutting-edge graphics.
+The [NVIDIA GeForce RTX 4090](https://amzn.to/4pqJrwj) set new standards for gaming performance when it launched in late 2022. But what if you had complemented your hardware purchase with an investment in NVIDIA stock? Our analysis reveals how combining tech enthusiasm with strategic investing could have turned your $1,599 into **$8,398** - while still enjoying cutting-edge graphics.
 
 ---
 
 #### **The RTX 4090 Launch**  
 - **Launch Date**: October 12, 2022  
-- **Original Price**: $1,599 ([Amazon](https://amzn.to/3FGqkgi))  
+- **Original Price**: $1,599 ([Amazon](https://amzn.to/4pqJrwj))  
 - **Key Features**:  
   - 24GB GDDR6X memory  
   - DLSS 3 technology  
@@ -60,7 +60,7 @@ Using [StockGainsCalculator.com](https://stockgainscalculator.com) data through 
 ---
 
 ### **Current Opportunities**  
-- **For Gamers**: [RTX 4090 Founders Edition](https://amzn.to/3FGqkgi) (Flagship performance)  
+- **For Gamers**: [RTX 4090 Founders Edition](https://amzn.to/4pqJrwj) (Flagship performance)  
 - **Value Seekers**: [RTX 4080 Super](https://amzn.to/423bHuN) ($999 with excellent performance)  
 - **Investors**: Use our [Stock Gain Calculator](https://stockgainscalculator.com) for other tech stocks  
 
