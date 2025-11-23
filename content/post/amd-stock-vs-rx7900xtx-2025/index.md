@@ -14,7 +14,7 @@ weight: 1
 ---
 
 ### **Introduction**  
-The [PowerColor Red Devil RX 7900 XTX](https://amzn.to/3DZg3va) was a gamer's dream in 2022. But if you'd invested that $1,099 in AMD stock instead, you'd have **$1,583 today** (+44%) while your GPU depreciated. Let's explore this tech investment crossroads.
+The [PowerColor Red Devil RX 7900 XTX](https://amzn.to/3LP0wlf) was a gamer's dream in 2022. But if you'd invested that $1,099 in AMD stock instead, you'd have **$1,583 today** (+44%) while your GPU depreciated. Let's explore this tech investment crossroads.
 
 ---
 
@@ -35,12 +35,12 @@ The [PowerColor Red Devil RX 7900 XTX](https://amzn.to/3DZg3va) was a gamer's dr
 #### **Key Takeaways**  
 1. **The AI Savior**: AMD's data center revenue grew 287% during this period  
 2. **Hybrid Approach**: Buying both the GPU and 5 AMD shares ($317) would now be worth $1,100 total  
-3. **Gamer Reality**: Newer [RX 8900 XT](https://amzn.to/442aV3P) makes old GPUs obsolete faster than stocks  
+3. **Gamer Reality**: Newer [RX 8900 XT](https://amzn.to/4pvITFr) makes old GPUs obsolete faster than stocks  
 
 ---
 
 ### **2025 Recommendations**  
-- **For Gamers**: [RX 7900 XTX Clearance Deals](https://amzn.to/442aV3P)  
+- **For Gamers**: [RX 7900 XTX Clearance Deals](https://amzn.to/49CVFgQ)  
 - **For Investors**: [Try Our Updated AMD Calculator](https://stockgainscalculator.com/)  
 
 ---
