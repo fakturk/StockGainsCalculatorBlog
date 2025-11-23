@@ -14,7 +14,7 @@ weight: 1
 ---
 
 ### **Introduction**  
-Breaking news: The [Intel Core i9-13900K](https://amzn.to/4iMH4AU) has achieved what seemed impossible - it depreciated *less* (-28.5%) than Intel stock (-28.5%) since 2022. Let's mourn this financial anomaly together.
+Breaking news: The [Intel Core i9-13900K](https://amzn.to/4o9wGVJ) has achieved what seemed impossible - it depreciated *less* (-28.5%) than Intel stock (-28.5%) since 2022. Let's mourn this financial anomaly together.
 
 ---
 
@@ -38,7 +38,7 @@ Breaking news: The [Intel Core i9-13900K](https://amzn.to/4iMH4AU) has achieved 
 ---
 
 ### **2025 Survival Guide**  
-- **For Builders**: [Core i9-13900K (Now $299)](https://amzn.to/4iMH4AU) - because why stop losing money?  
+- **For Builders**: [Core i9-13900K (Now $299)](https://amzn.to/4o9wGVJ) - because why stop losing money?  
 - **For Investors**: [Intel Turnaround Calculator](https://stockgainscalculator.com/)  
 
 > "When your processor outpaces your portfolio..." - Disappointed Investors Weekly  
