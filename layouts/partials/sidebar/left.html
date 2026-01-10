@@ -9,7 +9,7 @@
         {{ with .Site.Params.sidebar.avatar }}
             {{ if (default true .enabled) }}
             <figure class="site-avatar">
-                <a href="https://stockgainscalculator.com">
+                <a href="{{ .link | default (.Site.BaseURL | relLangURL) }}">
                 {{ if not .local }}
                     <img src="{{ .src }}" width="300" height="300" class="site-logo" loading="lazy" alt="Avatar">
                 {{ else }}
@@ -74,11 +74,6 @@
             </a>
         </li>
         {{ end }}
-        <li>
-            <a href="https://stockgainscalculator.com">
-                <span>StockGainsCalculator</span>
-            </a>
-        </li>
         <li class="menu-bottom-section">
             <ol class="menu">
                 {{- $currentLanguageCode := .Language.Lang -}}

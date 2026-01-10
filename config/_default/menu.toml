@@ -1,4 +1,11 @@
 # Configure main menu and social menu
+[[main]]
+identifier = "stockgains"
+name = "StockGainsCalculator"
+url = "https://stockgainscalculator.com"
+[main.params]
+newtab = true
+
 #[[main]]
 #identifier = "home"
 #name = "Home"

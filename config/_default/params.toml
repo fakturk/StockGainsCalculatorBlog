@@ -20,6 +20,7 @@ subtitle = "Calculate Smarter, Invest Better."
 enabled = true
 local = true
 src = "img/avatar.png"
+link = "https://stockgainscalculator.com"
 
 [article]
 headingAnchor = false
